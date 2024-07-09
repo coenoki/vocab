@@ -1,0 +1,486 @@
+[
+  {
+    "word": "Candid",
+    "definition": "Truthful and straightforward; frank.",
+    "example": "She gave a candid interview about her experiences.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8kandid"
+  },
+  {
+    "word": "Eloquent",
+    "definition": "Fluent or persuasive in speaking or writing.",
+    "example": "The politician gave an eloquent speech about social justice.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8el\u0259kw\u0259nt"
+  },
+  {
+    "word": "Jubilant",
+    "definition": "Feeling or expressing great happiness and triumph.",
+    "example": "The crowd was jubilant after their team won the championship.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8jo\u035eob\u0259l\u0259nt"
+  },
+  {
+    "word": "Luminous",
+    "definition": "Full of or shedding light; bright or shining, especially in the dark.",
+    "example": "The luminous moonlight lit up the night.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8lo\u035eom\u0259n\u0259s"
+  },
+  {
+    "word": "Quaint",
+    "definition": "Attractively unusual or old-fashioned.",
+    "example": "They stayed in a quaint cottage during their vacation.",
+    "part_of_speech": "adjective",
+    "pronounciation": "kw\u0101nt"
+  },
+  {
+    "word": "Resilient",
+    "definition": "Able to withstand or recover quickly from difficult conditions.",
+    "example": "The human spirit is remarkably resilient.",
+    "part_of_speech": "adjective",
+    "pronounciation": "r\u0259\u02c8zily\u0259nt"
+  },
+  {
+    "word": "Scrupulous",
+    "definition": "Diligent, thorough, and extremely attentive to details.",
+    "example": "The accountant was scrupulous in her work, ensuring that every entry was accurate.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8skro\u035eopy\u0259l\u0259s"
+  },
+  {
+    "word": "Turbulent",
+    "definition": "Characterized by conflict, disorder, or confusion; not stable or calm.",
+    "example": "The plane experienced turbulent conditions during the flight.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8t\u0259rby\u0259l\u0259nt"
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "Present, appearing, or found everywhere.",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "part_of_speech": "adjective",
+    "pronounciation": "yo\u035eo\u02c8bikw\u0259d\u0259s"
+  },
+  {
+    "word": "Whimsical",
+    "definition": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
+    "example": "The story was filled with whimsical characters and magical adventures.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8(h)wimzik\u0259l"
+  },
+  {
+    "word": "Pursuit",
+    "definition": "The action of following or chasing someone or something.",
+    "example": "The police were in pursuit of the suspect.",
+    "part_of_speech": "noun",
+    "pronounciation": "p\u0259r-\u02c8s\u00fct"
+  },
+  {
+    "word": "Preconceived",
+    "definition": "(Of an idea or opinion) formed before having the evidence for its truth.",
+    "example": "She had preconceived notions about the new employee based solely on hearsay.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02ccpr\u0113-k\u0259n-\u02c8s\u0113vd"
+  },
+  {
+    "word": "Zealous",
+    "definition": "Having or showing great enthusiasm in pursuit of a cause or objective.",
+    "example": "She was a zealous supporter of the new environmental policy.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8zel\u0259s"
+  },
+  {
+    "word": "Prejudice",
+    "definition": "Preconceived opinion that is not based on reason or actual experience.",
+    "example": "The organization's goal is to reduce racial prejudice within the community.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8prej\u0259d\u0259s"
+  },
+  {
+    "word": "Conspicuous",
+    "definition": "Standing out so as to be clearly visible.",
+    "example": "His bright red coat made him conspicuous in the crowd.",
+    "part_of_speech": "adjective",
+    "pronounciation": "k\u0259n\u02c8sp\u026akju\u0259s"
+  },
+  {
+    "word": "Delectable",
+    "definition": "Delicious or delightful.",
+    "example": "The chef prepared a delectable meal for the guests.",
+    "part_of_speech": "adjective",
+    "pronounciation": "d\u026a\u02c8lekt\u0259b(\u0259)l"
+  },
+  {
+    "word": "Formidable",
+    "definition": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+    "example": "The team faced a formidable opponent in the championship game.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8f\u0254rm\u026ad\u0259bl"
+  },
+  {
+    "word": "Garrulous",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "example": "The garrulous host entertained his guests with endless stories.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8\u0261er\u0259l\u0259s"
+  },
+  {
+    "word": "Impeccable",
+    "definition": "In accordance with the highest standards; faultless.",
+    "example": "Her impeccable manners made a lasting impression on her hosts.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026am\u02c8pek\u0259b\u0259l"
+  },
+  {
+    "word": "Judicious",
+    "definition": "Having, showing, or done with good judgment or sense.",
+    "example": "He made a judicious decision to invest in the new technology.",
+    "part_of_speech": "adjective",
+    "pronounciation": "d\u0292u\u02c8d\u026a\u0283\u0259s"
+  },
+  {
+    "word": "Kaleidoscope",
+    "definition": "A constantly changing pattern or sequence of elements.",
+    "example": "The sunset turned the sky into a kaleidoscope of colors.",
+    "part_of_speech": "noun",
+    "pronounciation": "k\u0259\u02c8la\u026ad\u0259\u02ccsko\u028ap"
+  },
+  {
+    "word": "Lavish",
+    "definition": "Sumptuously rich, elaborate, or luxurious.",
+    "example": "The couple hosted a lavish wedding reception for their guests.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8l\u00e6v\u026a\u0283"
+  },
+  {
+    "word": "Melancholy",
+    "definition": "A deep, long-lasting sadness.",
+    "example": "She felt a sense of melancholy wash over her as she looked at the old photographs.",
+    "part_of_speech": "Noun",
+    "pronounciation": "\u02c8mel\u0259n\u02cck\u00e4l\u0113"
+  },
+  {
+    "word": "Nefarious",
+    "definition": "Wicked or criminal.",
+    "example": "The villain's nefarious plans were eventually thwarted by the hero.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "n\u0259\u02c8fer\u0113\u0259s"
+  },
+  {
+    "word": "Opulent",
+    "definition": "Richly luxurious and lavish.",
+    "example": "The opulent ballroom was adorned with crystal chandeliers and gold decorations.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02c8\u00e4py\u0259l\u0259nt"
+  },
+  {
+    "word": "Quintessential",
+    "definition": "Representing the most perfect or typical example of a quality or class.",
+    "example": "Paris is the quintessential city of romance.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02cckwin(t)\u035f\u0259\u02c8sen(t)SH\u0259l"
+  },
+  {
+    "word": "Serendipity",
+    "definition": "The occurrence of events by chance in a happy or beneficial way.",
+    "example": "Meeting her at the coffee shop was pure serendipity.",
+    "part_of_speech": "Noun",
+    "pronounciation": "\u02ccser\u0259n\u02c8dip\u0259d\u0113"
+  },
+  {
+    "word": "Tenacious",
+    "definition": "Holding firmly to something; persistent.",
+    "example": "Her tenacious attitude helped her overcome many obstacles.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "t\u0259\u02c8n\u0101SH\u0259s"
+  },
+  {
+    "word": "Unanimous",
+    "definition": "Fully in agreement.",
+    "example": "The board's decision to approve the project was unanimous.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "yo\u035eo\u02c8nan\u0259m\u0259s"
+  },
+  {
+    "word": "Vivacious",
+    "definition": "Attractively lively and animated.",
+    "example": "Her vivacious personality made her the life of the party.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "v\u0259\u02c8v\u0101SH\u0259s"
+  },
+  {
+    "word": "Witty",
+    "definition": "Showing or characterized by quick and inventive verbal humor.",
+    "example": "He was known for his witty remarks.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02c8wid\u0113"
+  },
+  {
+    "word": "Excerpt",
+    "definition": "A short extract from a film, broadcast, or piece of music or writing.",
+    "example": "She read an excerpt from her new novel at the book launch.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8ek\u02ccs\u0259rpt"
+  },
+  {
+    "word": "contemplate",
+    "definition": "Look thoughtfully for a long time at; think about.",
+    "example": "He stood at the edge of the cliff to contemplate the vast expanse of the ocean.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8k\u00e4n(t)\u0259m\u02ccpl\u0101t"
+  },
+  {
+    "word": "daintily",
+    "definition": "In an attractive, careful way, especially used about something small or having small movements.",
+    "example": "She picked up the cup daintily with her little finger extended.",
+    "part_of_speech": "adverb",
+    "pronounciation": "\u02c8de\u026ant\u026ali"
+  },
+  {
+    "word": "Apprehensive",
+    "definition": "Anxious or fearful that something bad or unpleasant will happen.",
+    "example": "She was apprehensive about the upcoming exam.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02cc\u00e6pr\u026a\u02c8h\u025bns\u026av"
+  },
+  {
+    "word": "meticulous",
+    "definition": "Showing great attention to detail; very careful and precise.",
+    "example": "He was meticulous in his work, ensuring every detail was perfect.",
+    "part_of_speech": "adjective",
+    "pronounciation": "m\u0259\u02c8tiky\u0259l\u0259s"
+  },
+  {
+    "word": "Ambiguous",
+    "definition": "Open to more than one interpretation; having a double meaning.",
+    "example": "The wording of the contract was ambiguous, leading to different interpretations.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u00e6m\u02c8b\u026a\u0261.ju.\u0259s"
+  },
+  {
+    "word": "Indispensable",
+    "definition": "Absolutely necessary; essential.",
+    "example": "Water is indispensable for life.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026an.d\u026a\u02c8spen.s\u0259.b\u0259l"
+  },
+  {
+    "word": "Conscientious",
+    "definition": "Wishing to do one's work or duty well and thoroughly.",
+    "example": "She is a conscientious worker, always putting in her best effort.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02cck\u0251\u02d0n\u0283i\u02c8en\u0283\u0259s"
+  },
+  {
+    "word": "Exuberant",
+    "definition": "Full of energy, excitement, and cheerfulness.",
+    "example": "The children were exuberant in their play.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026a\u0261\u02c8zu\u02d0b\u0259r\u0259nt"
+  },
+  {
+    "word": "Innovative",
+    "definition": "Featuring new methods; advanced and original.",
+    "example": "The company is known for its innovative technology.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8\u026an\u0259\u02ccve\u026at\u026av"
+  },
+  {
+    "word": "Illuminate",
+    "definition": "To light up or make clear.",
+    "example": "The streetlights illuminate the roads at night.",
+    "part_of_speech": "verb",
+    "pronounciation": "ih-LOO-muh-nayt"
+  },
+  {
+    "word": "Punctual",
+    "definition": "Happening or doing something at the agreed or proper time; on time.",
+    "example": "She is always punctual for her appointments.",
+    "part_of_speech": "adjective",
+    "pronounciation": "PUNK-choo-uhl"
+  },
+  {
+    "word": "Accentuate",
+    "definition": "To make more noticeable or prominent.",
+    "example": "The dress accentuates her figure perfectly.",
+    "part_of_speech": "verb",
+    "pronounciation": "ak-SEN-choo-ayt"
+  },
+  {
+    "word": "Altercation",
+    "definition": "A noisy argument or disagreement, especially in public.",
+    "example": "The altercation between the two drivers escalated quickly.",
+    "part_of_speech": "noun",
+    "pronounciation": "awl-ter-KAY-shuhn"
+  },
+  {
+    "word": "Advocate",
+    "definition": "A person who publicly supports or recommends a particular cause or policy.",
+    "example": "She is an advocate for environmental protection.",
+    "part_of_speech": "noun",
+    "pronounciation": "AD-vuh-kayt"
+  },
+  {
+    "word": "Capricious",
+    "definition": "Given to sudden and unaccountable changes of mood or behavior.",
+    "example": "Her capricious nature makes it hard to predict her reactions.",
+    "part_of_speech": "adjective",
+    "pronounciation": "kuh-PRISH-uhs"
+  },
+  {
+    "word": "Debunk",
+    "definition": "To expose the falseness or hollowness of a myth, idea, or belief.",
+    "example": "The scientist aimed to debunk myths about climate change.",
+    "part_of_speech": "verb",
+    "pronounciation": "dee-BUHNGK"
+  },
+  {
+    "word": "Yearning",
+    "definition": "A feeling of intense longing for something.",
+    "example": "She had a yearning to travel the world.",
+    "part_of_speech": "Noun",
+    "pronounciation": "\u02c8y\u0259rniNG"
+  },
+  {
+    "word": "Zephyr",
+    "definition": "A gentle, mild breeze, often associated with the west wind.",
+    "example": "The zephyr that came through the open window was a welcome relief on the hot summer day.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8ze-f\u0259r"
+  },
+  {
+    "word": "Adept",
+    "definition": "Highly skilled or proficient at something.",
+    "example": "She is adept at playing the piano, having practiced diligently for years.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0259-\u02c8dept"
+  },
+  {
+    "word": "Belligerent",
+    "definition": "Hostile and aggressive.",
+    "example": "His belligerent attitude made it difficult to have a peaceful conversation.",
+    "part_of_speech": "adjective",
+    "pronounciation": "b\u0259-\u02c8lij-\u0259-r\u0259nt"
+  },
+  {
+    "word": "Cognizant",
+    "definition": "Having knowledge or being aware of something.",
+    "example": "She was fully cognizant of the potential risks involved in the project.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8k\u00e4g-n\u0259-z\u0259nt"
+  },
+  {
+    "word": "Dexterous",
+    "definition": "Showing or having skill, especially with the hands.",
+    "example": "A dexterous guitarist can easily switch between complex chords.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8dek-st(\u0259)-r\u0259s"
+  },
+  {
+    "word": "Ephemeral",
+    "definition": "Lasting for a very short time.",
+    "example": "The beauty of the cherry blossoms is ephemeral, lasting only a few weeks each spring.",
+    "part_of_speech": "adjective",
+    "pronounciation": "i-\u02c8fe-m\u0259-r\u0259l"
+  },
+  {
+    "word": "Frugal",
+    "definition": "Sparing or economical with regard to money or food.",
+    "example": "By being frugal and cutting unnecessary expenses, they were able to save a considerable amount of money.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8fr\u00fc-g\u0259l"
+  },
+  {
+    "word": "Gregarious",
+    "definition": "Fond of company; sociable.",
+    "example": "He is a gregarious person who loves to host parties and gatherings.",
+    "part_of_speech": "adjective",
+    "pronounciation": "gr\u0259-\u02c8ger-\u0113-\u0259s"
+  },
+  {
+    "word": "Impetuous",
+    "definition": "Acting or done quickly and without thought or care.",
+    "example": "Her impetuous decision to quit her job resulted in a period of financial instability.",
+    "part_of_speech": "adjective",
+    "pronounciation": "im-\u02c8pech-w\u0259s"
+  },
+  {
+    "word": "Juxtapose",
+    "definition": "Place or deal with close together for contrasting effect.",
+    "example": "The artist juxtaposed the dark and light colors to create a striking visual effect.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8j\u0259k-st\u0259-\u02ccp\u014dz"
+  },
+  {
+    "word": "Acrimonious",
+    "definition": "Characterized by bitterness or sharpness of manner, speech, or temper.",
+    "example": "The debate over the new policy was acrimonious, with both sides resorting to personal attacks.",
+    "part_of_speech": "adjective",
+    "pronunciation": "\u02ccakr\u0259\u02c8m\u014dn\u0113\u0259s"
+  },
+  {
+    "word": "Blatant",
+    "definition": "Done openly and unashamedly; very obvious.",
+    "example": "His blatant disregard for the rules could not be ignored.",
+    "part_of_speech": "adjective",
+    "pronunciation": "\u02c8bl\u0101tnt"
+  },
+  {
+    "word": "Camaraderie",
+    "definition": "Mutual trust and friendship among people who spend a lot of time together.",
+    "example": "The camaraderie among the team members was evident in their seamless coordination.",
+    "part_of_speech": "noun",
+    "pronunciation": "\u02cck\u00e4m\u0259\u02c8r\u00e4d\u0259r\u0113"
+  },
+  {
+    "word": "Debilitate",
+    "definition": "To make someone or something weak or feeble.",
+    "example": "The long illness had debilitated him, leaving him unable to work.",
+    "part_of_speech": "verb",
+    "pronunciation": "d\u026a\u02c8b\u026al\u026ate\u026at"
+  },
+  {
+    "word": "Ebullient",
+    "definition": "Cheerful and full of energy.",
+    "example": "Her ebullient personality made her a great host for the party.",
+    "part_of_speech": "adjective",
+    "pronunciation": "\u026a\u02c8b\u028clj\u0259nt"
+  },
+  {
+    "word": "Fastidious",
+    "definition": "Very attentive to and concerned about accuracy and detail.",
+    "example": "He was fastidious in his work, always double-checking every detail before submission.",
+    "part_of_speech": "adjective",
+    "pronunciation": "f\u0259\u02c8st\u026adi\u0259s"
+  },
+  {
+    "word": "Galvanize",
+    "definition": "To shock or excite someone into taking action.",
+    "example": "The urgent need for reform galvanized the community into action.",
+    "part_of_speech": "verb",
+    "pronunciation": "\u02c8\u0261alv\u0259\u02ccn\u012bz"
+  },
+  {
+    "word": "Hapless",
+    "definition": "Unfortunate; having bad luck.",
+    "example": "The hapless traveler missed his flight and lost his luggage.",
+    "part_of_speech": "adjective",
+    "pronunciation": "\u02c8hapl\u0259s"
+  },
+  {
+    "word": "Idiosyncrasy",
+    "definition": "A mode of behavior or way of thought peculiar to an individual.",
+    "example": "One of her idiosyncrasies is always wearing mismatched socks.",
+    "part_of_speech": "noun",
+    "pronunciation": "\u02cc\u026ad\u026a\u0259\u02c8s\u026a\u014bkr\u0259si"
+  },
+  {
+    "word": "Juxtaposition",
+    "definition": "The fact of two things being seen or placed close together with contrasting effect.",
+    "example": "The artist's use of juxtaposition highlights the contrast between the urban and the rural.",
+    "part_of_speech": "noun",
+    "pronunciation": "\u02ccj\u0259kst\u0259p\u0259\u02c8z\u026a\u0283(\u0259)n"
+  }
+]
+
