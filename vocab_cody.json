@@ -371,6 +371,62 @@
     "pronounciation": "\u02c8k\u00e4g-n\u0259-z\u0259nt"
   },
   {
+    "word": "Affluent",
+    "definition": "Having a great deal of money; wealthy.",
+    "example": "The affluent neighborhood was filled with mansions and luxury cars.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8\u00e6flu\u0259nt"
+  },
+  {
+    "word": "Zealous",
+    "definition": "Having or showing zeal; fervent and enthusiastic.",
+    "example": "She was a zealous supporter of the local football team.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8zel\u0259s"
+  },
+  {
+    "word": "Effervescent",
+    "definition": "Vivacious and enthusiastic; giving off bubbles (liquid).",
+    "example": "Her effervescent personality made her the life of the party.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02ccef\u0259r\u02c8ves\u0259nt"
+  },
+  {
+    "word": "Astute",
+    "definition": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+    "example": "He was an astute businessman, always finding a way to maximize profits.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0259\u02c8stju\u02d0t"
+  },
+  {
+    "word": "Incisive",
+    "definition": "Intelligently analytical and clear-thinking; able to express ideas and opinions clearly and directly.",
+    "example": "Her incisive comments during the meeting impressed her colleagues.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026an\u02c8sa\u026as\u026av"
+  },
+  {
+    "word": "Gregarious",
+    "definition": "Fond of company; sociable.",
+    "example": "His gregarious nature ensured he was always surrounded by friends.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0261r\u026a\u02c8\u0261e\u0259ri\u0259s"
+  },
+  {
+    "word": "Perceptive",
+    "definition": "Having or showing sensitive insight.",
+    "example": "Her perceptive observations revealed the true nature of the situation.",
+    "part_of_speech": "adjective",
+    "pronounciation": "p\u0259r\u02c8s\u025bpt\u026av"
+  },
+  {
+    "word": "Subtle",
+    "definition": "So delicate or precise as to be difficult to analyze or describe.",
+    "example": "The artist used subtle shades of color to convey a sense of peace.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8s\u028ct\u0259l"
+  },
+  {
     "word": "Dexterous",
     "definition": "Showing or having skill, especially with the hands.",
     "example": "A dexterous guitarist can easily switch between complex chords.",
@@ -390,13 +446,6 @@
     "example": "By being frugal and cutting unnecessary expenses, they were able to save a considerable amount of money.",
     "part_of_speech": "adjective",
     "pronounciation": "\u02c8fr\u00fc-g\u0259l"
-  },
-  {
-    "word": "Gregarious",
-    "definition": "Fond of company; sociable.",
-    "example": "He is a gregarious person who loves to host parties and gatherings.",
-    "part_of_speech": "adjective",
-    "pronounciation": "gr\u0259-\u02c8ger-\u0113-\u0259s"
   },
   {
     "word": "Impetuous",

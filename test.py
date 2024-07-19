@@ -28,22 +28,23 @@ The output must be a list of JSON objects. Here's an example:
     },
     ...
 ]
+```
 '''
 
 WORDS = [
-    'Excerpt', 'contemplate', 'daintily', 'Apprehensive', 'meticulous', 'Ambiguous', 'Indespensable', 'Conscientious', 'Exuberant', 'Innovative', 'Illuminate', 'Punctual', 'Accentuate', 'Altercation', 'Advocate', 'Capricous', 'Debunk',
+    'Afluent', 'Zealous', 'Effercent', 'Astute', 'Incisive', 'Gregarrous', 'Perceptive', 'Subtle'
 ]
 
-def test_defn(num = None):
+def test_defn(start_index, end_index):
     path = './vocab/vocab_cody.json'
     defn = []
 
     with open(path, 'r') as file:
         defn = json.load(file)
 
-    while True:
-        i = random.randint(0, num or len(defn))
-        word = defn[i]
+    for _ in range(math.ceil((end_index - start_index) * 2)):
+        i = random.randint(0, (end_index - start_index) or len(defn))
+        word = defn[start_index + i]
         print(f'\n\nWhat is the definition of {word["word"]}?')
         input()
         print(word['definition'])
@@ -51,34 +52,41 @@ def test_defn(num = None):
         print(word['part_of_speech'])
         input()
 
+def _call_openai(client, words: list[str]) -> str:
+    completion = client.chat.completions.create(
+        model='gpt-4o',
+        messages=[
+            {'role': 'system', 'content': SYSTEM_MESSAGE},
+            {'role': 'user', 'content': '\n'.join(words)},
+        ],
+    )
+    return completion.choices[0].message.content
+
+def _extract_json(content: str) -> str:
+    start_index = content.index('```json') + len('```json')
+    end_index = content[start_index:].index('```') + start_index
+    return content[start_index:end_index]
+
+def _process_result(content: str):
+    res = _extract_json(content)
+    return json.loads(res)
+
 def generate_defn():
     client = openai.OpenAI()
 
-    results = []
+    cumulative_result = []
 
     for i in range(math.ceil(len(WORDS) / 10)):
         words = WORDS[i * 10:(i + 1) * 10]
-        completion = client.chat.completions.create(
-            model='gpt-4o',
-            messages=[
-                {'role': 'system', 'content': SYSTEM_MESSAGE},
-                {'role': 'user', 'content': '\n'.join(words)},
-            ],
-        )
-        content = completion.choices[0].message.content
+        openai_result = _call_openai(client, words)
+        result = _process_result(openai_result)
+        cumulative_result += result
 
-        start_index = content.index('```json') + len('```json')
-        end_index = content[start_index:].index('```') + start_index
-        res = content[start_index:end_index]
-
-        defn = json.loads(res)
-        results.extend(defn)
-
-    print(json.dumps(results, indent=2))
+    print(json.dumps(cumulative_result, indent=2))
 
 def main():
-    # test_defn(31)
-    generate_defn()
+    test_defn(50, 70)
+    #generate_defn()
 
 if __name__ == '__main__':
     main()
