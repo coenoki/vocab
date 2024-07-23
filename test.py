@@ -32,7 +32,8 @@ The output must be a list of JSON objects. Here's an example:
 '''
 
 WORDS = [
-    'Afluent', 'Zealous', 'Effercent', 'Astute', 'Incisive', 'Gregarrous', 'Perceptive', 'Subtle'
+    'Peculiar', 'Aticulate', 'Superfluous', 'Controversy', 'Diminish', 'Intrepid', 'Prodigious', 'Coherent', 'Disdain', 'Enigma', 'Extricate', 'Hypocrisy', 'Capitulate', 'Deft', 'Frivolous', 'Grandious', 'Imperative', 'Opaque', 'Paradox', 'Relinquish', 'Fathom', 'Indomitable', 'Lament', 'Acquaintence', 'Adversary', 'Archaic', 'Laudable', 'Propencity', 'Substantiate', 'Abundance', 'Penchant', 'Permeate', 'Controversy', 'Sagacious', 'Abolish', 'Amend', 'Concur', 'Eccentric', 'Exemplary', 'Imminent', 'Inevitable', 'Lucrative', 'Placid', 'Reclusive', 'Vindicate', 'Alleviate', 'Dubious', 'Ostentatious', 'Pragmatic'
+
 ]
 
 def test_defn(start_index, end_index):
@@ -85,7 +86,7 @@ def generate_defn():
     print(json.dumps(cumulative_result, indent=2))
 
 def main():
-    test_defn(50, 70)
+    test_defn(0, 70)
     #generate_defn()
 
 if __name__ == '__main__':
