@@ -32,7 +32,11 @@ The output must be a list of JSON objects. Here's an example:
 '''
 
 WORDS = [
-    'Peculiar', 'Aticulate', 'Superfluous', 'Controversy', 'Diminish', 'Intrepid', 'Prodigious', 'Coherent', 'Disdain', 'Enigma', 'Extricate', 'Hypocrisy', 'Capitulate', 'Deft', 'Frivolous', 'Grandious', 'Imperative', 'Opaque', 'Paradox', 'Relinquish', 'Fathom', 'Indomitable', 'Lament', 'Acquaintence', 'Adversary', 'Archaic', 'Laudable', 'Propencity', 'Substantiate', 'Abundance', 'Penchant', 'Permeate', 'Controversy', 'Sagacious', 'Abolish', 'Amend', 'Concur', 'Eccentric', 'Exemplary', 'Imminent', 'Inevitable', 'Lucrative', 'Placid', 'Reclusive', 'Vindicate', 'Alleviate', 'Dubious', 'Ostentatious', 'Pragmatic'
+    'Allocate', 'Adhere', 'Initialize', 'Preliminary', 'Obsolete', 'Vigilant', 'Lucid', 'Pertinent', 'Tranquil', 'Benign', 
+    'Enigmatic', 'Icessant', 'Tangible', 'Apathy', 'Circumvent', 'Desolate', 'Hypothetical', 'Prudent', 'Condrum', 'Indifferent', 
+    'Mitigate', 'Reconcile', 'Abritrary', 'Dissent', 'Inquisitive', 'Methodical', 'Reprehensible', 'Aloof', 'Incorrigible', 'Nonchalant',
+    'Eradicate', 'Incessant', 'Austere', 'Disparage', 'Equanimity', 'Implicate', 'Inept', 'Parched', 'Retrospect', 'Substantial'
+    'Adversity', 'Brevity', 'Cynical', 'Deviate', 'Epitome', 'Gratuitous', 'Hindrance', 'Innate', 'Precarious', 'Elusive'
 
 ]
 
@@ -43,7 +47,7 @@ def test_defn(start_index, end_index):
     with open(path, 'r') as file:
         defn = json.load(file)
 
-    for _ in range(math.ceil((end_index - start_index) * 2)):
+    for _ in range(min(100, math.ceil((end_index - start_index) * 2))):
         i = random.randint(0, (end_index - start_index) or len(defn))
         word = defn[start_index + i]
         print(f'\n\nWhat is the definition of {word["word"]}?')
@@ -86,8 +90,8 @@ def generate_defn():
     print(json.dumps(cumulative_result, indent=2))
 
 def main():
-    test_defn(0, 70)
-    #generate_defn()
+    test_defn(0, 124)
+    # generate_defn()
 
 if __name__ == '__main__':
     main()

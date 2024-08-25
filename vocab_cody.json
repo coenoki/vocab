@@ -873,6 +873,356 @@
     "example": "She took a pragmatic approach to problem-solving, focusing on what worked rather than what was ideal.",
     "part_of_speech": "Adjective",
     "pronounciation": "prag-MAT-ik"
+  },
+  {
+    "word": "Allocate",
+    "definition": "To distribute resources or duties for a particular purpose.",
+    "example": "The company decided to allocate a portion of its budget to research and development.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8al\u0259\u02cck\u0101t"
+  },
+  {
+    "word": "Adhere",
+    "definition": "To stick fast to a surface or substance; to believe in and follow the practices of.",
+    "example": "You must adhere to the safety regulations while working in the lab.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259d\u02c8hi(\u0259)r"
+  },
+  {
+    "word": "Initialize",
+    "definition": "To set to the value or put in the condition appropriate to the start of an operation.",
+    "example": "Before using the software, you need to initialize the setup configuration.",
+    "part_of_speech": "verb",
+    "pronounciation": "i\u02c8niSH\u0259\u02ccl\u012bz"
+  },
+  {
+    "word": "Preliminary",
+    "definition": "Coming before a main event or activity, especially as an introduction.",
+    "example": "The preliminary results of the study show promise but require further investigation.",
+    "part_of_speech": "adjective",
+    "pronounciation": "pri\u02c8lim\u0259\u02ccner\u0113"
+  },
+  {
+    "word": "Obsolete",
+    "definition": "No longer produced or used; out of date.",
+    "example": "The rapid advancement of technology has made many older devices obsolete.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02cc\u00e4bs\u0259\u02c8l\u0113t"
+  },
+  {
+    "word": "Vigilant",
+    "definition": "Keeping careful watch for possible danger or difficulties.",
+    "example": "The security staff remained vigilant throughout the night to ensure the safety of the premises.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8vij\u0259l\u0259nt"
+  },
+  {
+    "word": "Lucid",
+    "definition": "Expressed clearly; easy to understand.",
+    "example": "Her explanation of the complex theory was so lucid that even those not familiar with the subject could understand it.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8lo\u035eosid"
+  },
+  {
+    "word": "Pertinent",
+    "definition": "Relevant or applicable to a particular matter; apposite.",
+    "example": "The lawyer presented all the pertinent facts regarding the case.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8p\u0259rtn\u0259nt"
+  },
+  {
+    "word": "Tranquil",
+    "definition": "Free from disturbance; calm.",
+    "example": "The tranquil lake offered a perfect setting for a peaceful retreat.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8traNGkw\u0259l"
+  },
+  {
+    "word": "Benign",
+    "definition": "Gentle and kind; not harmful in effect.",
+    "example": "The doctor assured us that the tumor was benign and not a threat to her health.",
+    "part_of_speech": "adjective",
+    "pronounciation": "b\u0259\u02c8n\u012bn"
+  },
+  {
+    "word": "Enigmatic",
+    "definition": "Difficult to interpret or understand; mysterious.",
+    "example": "The artist's enigmatic smile made the portrait even more intriguing.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02cc\u025bn\u026a\u0261\u02c8m\u00e6t\u026ak"
+  },
+  {
+    "word": "Incessant",
+    "definition": "(Of something regarded as unpleasant) continuing without pause or interruption.",
+    "example": "The incessant noise from the construction site made it hard to concentrate.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u026an\u02c8s\u025bs(\u0259)nt"
+  },
+  {
+    "word": "Tangible",
+    "definition": "Perceptible by touch; clear and definite real.",
+    "example": "The tension in the room was almost tangible.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02c8t\u00e6nd\u0292\u026ab(\u0259)l"
+  },
+  {
+    "word": "Apathy",
+    "definition": "Lack of interest, enthusiasm, or concern.",
+    "example": "The student's apathy towards the project was evident in his lack of effort.",
+    "part_of_speech": "Noun",
+    "pronounciation": "\u02c8\u00e6p\u0259\u03b8i"
+  },
+  {
+    "word": "Circumvent",
+    "definition": "Find a way around (an obstacle).",
+    "example": "They found a way to circumvent the blocked road by taking a detour.",
+    "part_of_speech": "Verb",
+    "pronounciation": "\u02ccs\u025c\u02d0rk\u0259m\u02c8v\u025bnt"
+  },
+  {
+    "word": "Desolate",
+    "definition": "(Of a place) deserted of people and in a state of bleak and dismal emptiness.",
+    "example": "The once bustling town was now desolate and forgotten.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02c8d\u025bs\u0259l\u0259t"
+  },
+  {
+    "word": "Hypothetical",
+    "definition": "Based on or serving as a hypothesis; supposed but not necessarily real or true.",
+    "example": "She discussed a hypothetical situation to illustrate her point.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak(\u0259)l"
+  },
+  {
+    "word": "Prudent",
+    "definition": "Acting with or showing care and thought for the future.",
+    "example": "It's always prudent to save some money for emergencies.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u02c8pru\u02d0d(\u0259)nt"
+  },
+  {
+    "word": "Conundrum",
+    "definition": "A confusing and difficult problem or question.",
+    "example": "The detective faced a conundrum that required all his skills to solve.",
+    "part_of_speech": "Noun",
+    "pronounciation": "k\u0259\u02c8n\u028cndr\u0259m"
+  },
+  {
+    "word": "Indifferent",
+    "definition": "Having no particular interest or sympathy; unconcerned.",
+    "example": "She was indifferent to the praise and criticism alike.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "\u026an\u02c8d\u026af(\u0259)r\u0259nt"
+  },
+  {
+    "word": "Mitigate",
+    "definition": "To make less severe, serious, or painful.",
+    "example": "The government has taken steps to mitigate the effects of the economic downturn.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8m\u026at\u026a\u02cc\u0261e\u026at"
+  },
+  {
+    "word": "Reconcile",
+    "definition": "To restore friendly relations between.",
+    "example": "After years of estrangement, they finally managed to reconcile their differences.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8r\u025bk\u0259n\u02ccsa\u026al"
+  },
+  {
+    "word": "Arbitrary",
+    "definition": "Based on random choice or personal whim, rather than any reason or system.",
+    "example": "The committee's selection process seemed completely arbitrary.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8\u0251rb\u026a\u02cctr\u025bri"
+  },
+  {
+    "word": "Dissent",
+    "definition": "The expression or holding of opinions at variance with those previously, commonly, or officially held.",
+    "example": "There was no dissent from this view.",
+    "part_of_speech": "noun",
+    "pronounciation": "d\u026a\u02c8s\u025bnt"
+  },
+  {
+    "word": "Inquisitive",
+    "definition": "Curious or inquiring.",
+    "example": "She was a very inquisitive student, always asking the most interesting questions.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026an\u02c8kw\u026az\u0259t\u026av"
+  },
+  {
+    "word": "Methodical",
+    "definition": "Done according to a systematic or established form of procedure.",
+    "example": "He is very methodical in his approach to work.",
+    "part_of_speech": "adjective",
+    "pronounciation": "m\u0259\u02c8\u03b8\u0252d\u026akl"
+  },
+  {
+    "word": "Reprehensible",
+    "definition": "Deserving blame or punishment.",
+    "example": "His actions were morally reprehensible.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02ccr\u025bpr\u026a\u02c8h\u025bn\u0259bl"
+  },
+  {
+    "word": "Aloof",
+    "definition": "Not friendly or forthcoming; cool and distant.",
+    "example": "They tried to stay aloof from the politics of the day.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0259\u02c8lu\u02d0f"
+  },
+  {
+    "word": "Incorrigible",
+    "definition": "Not able to be corrected, improved, or reformed.",
+    "example": "He is an incorrigible liar.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u026an\u02c8k\u0254r\u026ad\u0292\u0259b\u0259l"
+  },
+  {
+    "word": "Nonchalant",
+    "definition": "(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.",
+    "example": "She gave a nonchalant shrug.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02ccn\u0252n\u0283\u0259\u02c8l\u0251\u02d0nt"
+  },
+  {
+    "word": "Eradicate",
+    "definition": "To completely destroy or put an end to something.",
+    "example": "The government launched a campaign to eradicate polio.",
+    "part_of_speech": "verb",
+    "pronounciation": "ih-RAD-i-keyt"
+  },
+  {
+    "word": "Incessant",
+    "definition": "Continuing without pause or interruption.",
+    "example": "The incessant noise from the construction site was driving us crazy.",
+    "part_of_speech": "adjective",
+    "pronounciation": "in-SES-uhnt"
+  },
+  {
+    "word": "Austere",
+    "definition": "Severe or strict in manner, attitude, or appearance.",
+    "example": "The monk\u2019s austere lifestyle involved minimal comforts.",
+    "part_of_speech": "adjective",
+    "pronounciation": "aw-STEER"
+  },
+  {
+    "word": "Disparage",
+    "definition": "To regard or represent as being of little worth.",
+    "example": "He never missed an opportunity to disparage his competitors.",
+    "part_of_speech": "verb",
+    "pronounciation": "dih-SPAR-ij"
+  },
+  {
+    "word": "Equanimity",
+    "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+    "example": "She accepted both the good and the bad with equanimity.",
+    "part_of_speech": "noun",
+    "pronounciation": "ee-kwuh-NIM-i-tee"
+  },
+  {
+    "word": "Implicate",
+    "definition": "To show someone to be involved in a crime or to convey indirectly through what one says.",
+    "example": "The evidence implicated him in the robbery.",
+    "part_of_speech": "verb",
+    "pronounciation": "IM-pli-keyt"
+  },
+  {
+    "word": "Inept",
+    "definition": "Having or showing no skill; clumsy.",
+    "example": "His inept handling of the situation only made it worse.",
+    "part_of_speech": "adjective",
+    "pronounciation": "ih-NEPT"
+  },
+  {
+    "word": "Parched",
+    "definition": "Dried out with heat or extremely thirsty.",
+    "example": "The travelers were parched after walking through the desert.",
+    "part_of_speech": "adjective",
+    "pronounciation": "parcht"
+  },
+  {
+    "word": "Retrospect",
+    "definition": "A survey or review of a past course of events or period of time.",
+    "example": "In retrospect, it was clear that we should have taken a different route.",
+    "part_of_speech": "noun",
+    "pronounciation": "RE-truh-spekt"
+  },
+  {
+    "word": "Substantial",
+    "definition": "Of considerable importance, size, or worth.",
+    "example": "He made a substantial contribution to the project.",
+    "part_of_speech": "adjective",
+    "pronounciation": "suhb-STAN-shuhl"
+  },
+  {
+    "word": "Adversity",
+    "definition": "Difficulties or misfortune.",
+    "example": "She showed great courage in the face of adversity.",
+    "part_of_speech": "noun",
+    "pronounciation": "ad-VUR-si-tee"
+  },
+  {
+    "word": "Brevity",
+    "definition": "Concise and exact use of words in writing or speech.",
+    "example": "The speaker's brevity kept the audience engaged throughout the presentation.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8brev-it-ee"
+  },
+  {
+    "word": "Cynical",
+    "definition": "Believing that people are motivated by self-interest; distrustful of human sincerity or integrity.",
+    "example": "She was cynical about the politician\u2019s promises, suspecting they were just a ploy for votes.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8sin-i-kuhl"
+  },
+  {
+    "word": "Deviate",
+    "definition": "To depart from an established course or norm.",
+    "example": "Usually a careful driver, he would never deviate from the road rules.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8dee-vee-eyt"
+  },
+  {
+    "word": "Epitome",
+    "definition": "A person or thing that is a perfect example of a particular quality or type.",
+    "example": "The actress is the epitome of grace and elegance.",
+    "part_of_speech": "noun",
+    "pronounciation": "ih-pit-uh-mee"
+  },
+  {
+    "word": "Gratuitous",
+    "definition": "Uncalled for; lacking good reason; unwarranted.",
+    "example": "The movie was criticized for its gratuitous violence.",
+    "part_of_speech": "adjective",
+    "pronounciation": "gruh-too-i-tuhs"
+  },
+  {
+    "word": "Hindrance",
+    "definition": "A thing that provides resistance, delay, or obstruction to something or someone.",
+    "example": "Lack of funding was a serious hindrance to the research project.",
+    "part_of_speech": "noun",
+    "pronounciation": "hin-drans"
+  },
+  {
+    "word": "Innate",
+    "definition": "Inborn; natural.",
+    "example": "She has an innate ability to understand complex mathematical concepts.",
+    "part_of_speech": "adjective",
+    "pronounciation": "ih-neyt"
+  },
+  {
+    "word": "Precarious",
+    "definition": "Not securely held or in position; dangerously likely to fall or collapse.",
+    "example": "She stood on a precarious ladder while painting the top of the wall.",
+    "part_of_speech": "adjective",
+    "pronounciation": "pri-kair-ee-uhs"
+  },
+  {
+    "word": "Elusive",
+    "definition": "Difficult to find, catch, or achieve.",
+    "example": "The thief was elusive, managing to escape the police every time.",
+    "part_of_speech": "adjective",
+    "pronounciation": "ih-loo-siv"
   }
 ]
 
