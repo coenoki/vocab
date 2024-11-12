@@ -1223,6 +1223,832 @@
     "example": "The thief was elusive, managing to escape the police every time.",
     "part_of_speech": "adjective",
     "pronounciation": "ih-loo-siv"
+  },
+  {
+    "word": "Abundant",
+    "definition": "Existing or available in large quantities; plentiful.",
+    "example": "The harvest was abundant this year, providing enough food for the entire community.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0259\u02c8b\u0259nd\u0259nt"
+  },
+  {
+    "word": "Anticipate",
+    "definition": "To expect or predict; to look forward to something.",
+    "example": "We anticipate that sales will increase during the holiday season.",
+    "part_of_speech": "verb",
+    "pronounciation": "an\u02c8tis\u0259\u02ccp\u0101t"
+  },
+  {
+    "word": "Anxious",
+    "definition": "Experiencing worry, unease, or nervousness, typically about an imminent event or something with an uncertain outcome.",
+    "example": "She felt anxious before her presentation at the conference.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8aNG(k)SH\u0259s"
+  },
+  {
+    "word": "Approach",
+    "definition": "To come near or nearer to (someone or something) in distance or time.",
+    "example": "As we approach the city, the traffic becomes more congested.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259\u02c8pr\u014dCH"
+  },
+  {
+    "word": "Arrogant",
+    "definition": "Having or revealing an exaggerated sense of one's own importance or abilities.",
+    "example": "His arrogant attitude made it difficult for him to make friends.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8er\u0259\u0261\u0259nt"
+  },
+  {
+    "word": "Artifact",
+    "definition": "An object made by a human being, typically an item of cultural or historical interest.",
+    "example": "The museum displayed ancient artifacts from the Bronze Age.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8\u00e4rd\u0259\u02ccfakt"
+  },
+  {
+    "word": "Assume",
+    "definition": "To suppose something to be true, without proof.",
+    "example": "I assumed you knew how to drive since you've worked with cars for years.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259\u02c8so\u035eom"
+  },
+  {
+    "word": "Beneficial",
+    "definition": "Producing good or helpful results or effects; advantageous.",
+    "example": "Regular exercise is beneficial to health.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02ccben\u0259\u02c8fiSH\u0259l"
+  },
+  {
+    "word": "Bias",
+    "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+    "example": "The news article displayed a clear bias towards one political party.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8b\u012b\u0259s"
+  },
+  {
+    "word": "Campaign",
+    "definition": "An organized course of action to achieve a goal.",
+    "example": "The company launched an advertising campaign to promote its new product.",
+    "part_of_speech": "noun",
+    "pronounciation": "kam\u02c8p\u0101n"
+  },
+  {
+    "word": "Compatible",
+    "definition": "Capable of existing or working together in harmony.",
+    "example": "The new software is compatible with the older operating system.",
+    "part_of_speech": "Adjective",
+    "pronounciation": "k\u0259m\u02c8p\u00e6t\u0259bl"
+  },
+  {
+    "word": "Compel",
+    "definition": "To force or oblige someone to do something.",
+    "example": "The evidence was compelling enough to compel the jury to reach a guilty verdict.",
+    "part_of_speech": "Verb",
+    "pronounciation": "k\u0259m\u02c8p\u025bl"
+  },
+  {
+    "word": "Comprehend",
+    "definition": "To grasp mentally; understand.",
+    "example": "It took him a while to comprehend the full scale of the situation.",
+    "part_of_speech": "Verb",
+    "pronounciation": "\u02cck\u0252mpr\u0268\u02c8h\u025bnd"
+  },
+  {
+    "word": "Consequence",
+    "definition": "A result or effect of an action or condition.",
+    "example": "Failing to study will have negative consequences for your grades.",
+    "part_of_speech": "Noun",
+    "pronounciation": "\u02c8k\u0252ns\u0259kw\u0259ns"
+  },
+  {
+    "word": "Convey",
+    "definition": "To communicate or make known.",
+    "example": "Words alone cannot convey the deep emotion he felt.",
+    "part_of_speech": "Verb",
+    "pronounciation": "k\u0259n\u02c8ve\u026a"
+  },
+  {
+    "word": "Cope",
+    "definition": "To deal effectively with something difficult.",
+    "example": "She had to cope with the stress of finals week.",
+    "part_of_speech": "Verb",
+    "pronounciation": "ko\u028ap"
+  },
+  {
+    "word": "Critique",
+    "definition": "A detailed analysis and assessment of something.",
+    "example": "She wrote a detailed critique of the play she watched last night.",
+    "part_of_speech": "Noun",
+    "pronounciation": "kr\u026a\u02c8ti\u02d0k"
+  },
+  {
+    "word": "Deteriorate",
+    "definition": "To become progressively worse.",
+    "example": "The patient's condition began to deteriorate rapidly.",
+    "part_of_speech": "Verb",
+    "pronounciation": "d\u026a\u02c8t\u026a\u0259ri\u0259re\u026at"
+  },
+  {
+    "word": "Elaborate",
+    "definition": "To develop or present a theory, policy, or system in detail.",
+    "example": "Could you elaborate on what you mean by 'effective communication'?",
+    "part_of_speech": "Verb",
+    "pronounciation": "\u026a\u02c8l\u00e6b\u0259re\u026at"
+  },
+  {
+    "word": "Emerge",
+    "definition": "To become apparent, important, or prominent.",
+    "example": "New problems began to emerge as the project progressed.",
+    "part_of_speech": "Verb",
+    "pronounciation": "\u026a\u02c8m\u025c\u02d0rd\u0292"
+  },
+  {
+    "word": "Enhance",
+    "definition": "To improve the quality, amount, or strength of something.",
+    "example": "The new software update is designed to enhance user experience.",
+    "part_of_speech": "verb",
+    "pronounciation": "en-HANS"
+  },
+  {
+    "word": "Essential",
+    "definition": "Absolutely necessary; extremely important.",
+    "example": "Water is essential for all forms of life.",
+    "part_of_speech": "adjective",
+    "pronounciation": "ih-SEN-shuhl"
+  },
+  {
+    "word": "Evaluate",
+    "definition": "To judge or determine the significance, worth, or quality of something.",
+    "example": "The teacher will evaluate the students' essays based on clarity and coherence.",
+    "part_of_speech": "verb",
+    "pronounciation": "ih-VAL-yoo-eyt"
+  },
+  {
+    "word": "Exaggerate",
+    "definition": "To represent something as being larger, better, or worse than it really is.",
+    "example": "His habit is to exaggerate his achievements whenever he talks about his career.",
+    "part_of_speech": "verb",
+    "pronounciation": "ig-ZAJ-uh-reyt"
+  },
+  {
+    "word": "Exhaust",
+    "definition": "To drain someone of their physical or mental resources; to tire out.",
+    "example": "A long day at work can exhaust even the most energetic individual.",
+    "part_of_speech": "verb",
+    "pronounciation": "ig-ZAWST"
+  },
+  {
+    "word": "Expand",
+    "definition": "To increase in size, volume, quantity, or scope.",
+    "example": "The company plans to expand its operations to new markets next year.",
+    "part_of_speech": "verb",
+    "pronounciation": "ik-SPAND"
+  },
+  {
+    "word": "Expose",
+    "definition": "To make something visible by uncovering it; to reveal something hidden.",
+    "example": "The journalist aimed to expose the corruption within the organization.",
+    "part_of_speech": "verb",
+    "pronounciation": "ik-SPOHZ"
+  },
+  {
+    "word": "Generate",
+    "definition": "To produce or create something.",
+    "example": "Solar panels help generate electricity from sunlight.",
+    "part_of_speech": "verb",
+    "pronounciation": "JEN-uh-reyt"
+  },
+  {
+    "word": "Interpret",
+    "definition": "To explain the meaning of information, words, or actions.",
+    "example": "The lawyer will interpret the legal terms for the client.",
+    "part_of_speech": "verb",
+    "pronounciation": "in-TUR-prit"
+  },
+  {
+    "word": "Justify",
+    "definition": "To show or prove to be right or reasonable.",
+    "example": "He attempted to justify his decision by citing the benefits it would bring.",
+    "part_of_speech": "verb",
+    "pronounciation": "JUHS-tuh-fahy"
+  },
+  {
+    "word": "maximize",
+    "definition": "to increase something as much as possible",
+    "example": "In order to maximize profits, the company introduced several cost-cutting measures.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8m\u00e6ks\u026a\u02ccma\u026az"
+  },
+  {
+    "word": "obstacle",
+    "definition": "a thing that blocks one's way or prevents or hinders progress",
+    "example": "Despite the obstacles, she was determined to complete the marathon.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8\u0252bst\u0259kl"
+  },
+  {
+    "word": "persistent",
+    "definition": "Continuing firmly or obstinately in a course of action despite difficulty or opposition.",
+    "example": "Her persistent attempts to win the game finally paid off.",
+    "part_of_speech": "adjective",
+    "pronounciation": "p\u0259r-\u02c8si-st\u0259nt"
+  },
+  {
+    "word": "perspective",
+    "definition": "A particular attitude toward or way of regarding something; a point of view.",
+    "example": "From his perspective, the plan made perfect sense.",
+    "part_of_speech": "noun",
+    "pronounciation": "p\u0259r-\u02c8spek-tiv"
+  },
+  {
+    "word": "predicament",
+    "definition": "A difficult, unpleasant, or embarrassing situation.",
+    "example": "She found herself in a predicament when her car broke down in the middle of nowhere.",
+    "part_of_speech": "noun",
+    "pronounciation": "pri-\u02c8di-k\u0259-m\u0259nt"
+  },
+  {
+    "word": "allegiance",
+    "definition": "Loyalty or commitment to a superior or to a group or cause.",
+    "example": "The knight pledged his allegiance to the king.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u0259-\u02c8l\u0113-j\u0259ns"
+  },
+  {
+    "word": "allude",
+    "definition": "To suggest or call attention to indirectly; hint at.",
+    "example": "He alluded to the fact that he might not be available next week.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259-\u02c8l\u00fcd"
+  },
+  {
+    "word": "alternate",
+    "definition": "To occur in turns repeatedly; to interchange regularly.",
+    "example": "We decided to alternate driving duties every two hours during our road trip.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8o\u0307l-t\u0259r-\u02ccn\u0101t"
+  },
+  {
+    "word": "analyze",
+    "definition": "To examine methodically and in detail the constitution or structure of something, typically for purposes of explanation and interpretation.",
+    "example": "The students were asked to analyze the poem's themes and motifs.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8a-n\u0259-\u02ccl\u012bz"
+  },
+  {
+    "word": "assert",
+    "definition": "To state a fact or belief confidently and forcefully.",
+    "example": "She asserted her right to speak during the meeting.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259-\u02c8s\u0259rt"
+  },
+  {
+    "word": "assess",
+    "definition": "To evaluate or estimate the nature, ability, or quality of.",
+    "example": "The teacher will assess the students' progress at the end of the semester.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259-\u02c8ses"
+  },
+  {
+    "word": "attribute",
+    "definition": "To regard something as being caused by someone or something.",
+    "example": "She attributed her success to hard work and persistence.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u0259-\u02c8tri-by\u00fct"
+  },
+  {
+    "word": "Bias",
+    "definition": "An inclination or prejudice for or against one person or group, especially in a way considered to be unfair.",
+    "example": "The company's hiring practices showed a bias in favor of younger candidates.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8ba\u026a\u0259s"
+  },
+  {
+    "word": "Brevity",
+    "definition": "Concise and exact use of words in writing or speech.",
+    "example": "The brevity of the speech made it impactful and memorable.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8br\u025bv\u026ati"
+  },
+  {
+    "word": "Clarify",
+    "definition": "Make (a statement or situation) less confused and more comprehensible.",
+    "example": "The teacher took the time to clarify the assignment instructions for the students.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8kl\u00e6r\u026afa\u026a"
+  },
+  {
+    "word": "Collide",
+    "definition": "Hit with force when moving.",
+    "example": "The two cars collided at the intersection.",
+    "part_of_speech": "verb",
+    "pronounciation": "k\u0259\u02c8la\u026ad"
+  },
+  {
+    "word": "Compromise",
+    "definition": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+    "example": "After hours of negotiation, they finally reached a compromise.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8k\u0252mpr\u0259ma\u026az"
+  },
+  {
+    "word": "Concise",
+    "definition": "Giving a lot of information clearly and in a few words; brief but comprehensive.",
+    "example": "Her concise explanation made it easy for everyone to understand the complex topic.",
+    "part_of_speech": "adjective",
+    "pronounciation": "k\u0259n\u02c8sa\u026as"
+  },
+  {
+    "word": "Conform",
+    "definition": "Comply with rules, standards, or laws.",
+    "example": "All new cars must conform to the national safety standards.",
+    "part_of_speech": "verb",
+    "pronounciation": "k\u0259n\u02c8f\u0254\u02d0m"
+  },
+  {
+    "word": "Context",
+    "definition": "The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed.",
+    "example": "It's important to consider the historical context when analyzing these documents.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8k\u0252nt\u025bkst"
+  },
+  {
+    "word": "Contradict",
+    "definition": "Deny the truth of (a statement) by asserting the opposite.",
+    "example": "The witness's statement contradicts the defendant's account of the events.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02cck\u0252ntr\u0259\u02c8d\u026akt"
+  },
+  {
+    "word": "Coordinate",
+    "definition": "Bring the different elements of (a complex activity or organization) into a harmonious or efficient relationship.",
+    "example": "They worked to coordinate the relief efforts after the hurricane.",
+    "part_of_speech": "verb",
+    "pronounciation": "k\u0259\u028a\u02c8\u0254\u02d0d\u026ane\u026at"
+  },
+  {
+    "word": "Correlate",
+    "definition": "To have a mutual relationship or connection, in which one thing affects or depends on another.",
+    "example": "Researchers found that the levels of pollution correlate with the increase in respiratory diseases.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8k\u0252r.\u0259.le\u026at"
+  },
+  {
+    "word": "Credible",
+    "definition": "Able to be believed; convincing.",
+    "example": "The witness provided a credible account of the events.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8kr\u025b-d\u0259-b\u0259l"
+  },
+  {
+    "word": "Dedicate",
+    "definition": "To devote time, effort, or oneself to a particular task or purpose.",
+    "example": "She dedicated her life to helping the underprivileged.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8d\u025bd.\u026a.ke\u026at"
+  },
+  {
+    "word": "Deficiency",
+    "definition": "A lack or shortage of something necessary.",
+    "example": "The child was diagnosed with a vitamin D deficiency.",
+    "part_of_speech": "noun",
+    "pronounciation": "d\u026a\u02c8f\u026a\u0283.\u0259n.si"
+  },
+  {
+    "word": "Derive",
+    "definition": "To obtain something from (a specified source).",
+    "example": "Many words in the English language derive from Latin.",
+    "part_of_speech": "verb",
+    "pronounciation": "d\u026a\u02c8ra\u026av"
+  },
+  {
+    "word": "Devote",
+    "definition": "To give all or most of one's time or resources to (a person or activity).",
+    "example": "He decided to devote his life to scientific research.",
+    "part_of_speech": "verb",
+    "pronounciation": "d\u026a\u02c8vo\u028at"
+  },
+  {
+    "word": "Dilemma",
+    "definition": "A situation in which a difficult choice has to be made between two or more alternatives.",
+    "example": "She faced the dilemma of whether to stay at her current job or accept a new offer.",
+    "part_of_speech": "noun",
+    "pronounciation": "d\u026a\u02c8l\u025bm\u0259"
+  },
+  {
+    "word": "Distinguish",
+    "definition": "To recognize or treat (someone or something) as different.",
+    "example": "It was difficult to distinguish between the identical twins.",
+    "part_of_speech": "verb",
+    "pronounciation": "d\u026a\u02c8st\u026a\u014b.\u0261w\u026a\u0283"
+  },
+  {
+    "word": "Diverge",
+    "definition": "To separate from another route and go in a different direction.",
+    "example": "The two roads diverge as you leave the village.",
+    "part_of_speech": "verb",
+    "pronounciation": "da\u026a\u02c8v\u025crd\u0292"
+  },
+  {
+    "word": "Dominate",
+    "definition": "To have a commanding influence on; exercise control over.",
+    "example": "The company continues to dominate the market.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8d\u0252m.\u026a.ne\u026at"
+  },
+  {
+    "word": "Emphasis",
+    "definition": "Special importance, value, or prominence given to something.",
+    "example": "The teacher placed emphasis on the importance of studying.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8emf\u0259\u02ccsis"
+  },
+  {
+    "word": "Emulate",
+    "definition": "To strive to equal or excel, usually through imitation.",
+    "example": "She tried to emulate her older sister's success in academics.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8emy\u0259\u02ccl\u0101t"
+  },
+  {
+    "word": "Equate",
+    "definition": "To consider one thing to be the same as or equivalent to another.",
+    "example": "You cannot equate wealth with happiness.",
+    "part_of_speech": "verb",
+    "pronounciation": "i\u02c8kw\u0101t"
+  },
+  {
+    "word": "Establish",
+    "definition": "To set up or lay the groundwork for something.",
+    "example": "The company plans to establish a new branch in the city.",
+    "part_of_speech": "verb",
+    "pronounciation": "i\u02c8stabliSH"
+  },
+  {
+    "word": "Ethics",
+    "definition": "Moral principles that govern a person's or group's behavior.",
+    "example": "The company is known for its strong work ethics.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8eTHiks"
+  },
+  {
+    "word": "Excerpt",
+    "definition": "A short extract from a piece of writing, speech, film, etc.",
+    "example": "She read an excerpt from her new novel at the event.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8ek\u02ccs\u0259rpt"
+  },
+  {
+    "word": "Exemplify",
+    "definition": "To show or illustrate by example.",
+    "example": "The teacher used a diagram to exemplify the concept.",
+    "part_of_speech": "verb",
+    "pronounciation": "i\u0261\u02c8zempl\u0259\u02ccf\u012b"
+  },
+  {
+    "word": "Exhibit",
+    "definition": "To display or show something outwardly, especially in public.",
+    "example": "The museum will exhibit the artist's work next month.",
+    "part_of_speech": "verb",
+    "pronounciation": "i\u0261\u02c8zibit"
+  },
+  {
+    "word": "Explanation",
+    "definition": "A statement or account that makes something clear.",
+    "example": "I asked the teacher for an explanation of the complex topic.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02ccekspl\u0259\u02c8n\u0101SH(\u0259)n"
+  },
+  {
+    "word": "Feasible",
+    "definition": "Possible to do easily or conveniently; likely to be achieved successfully.",
+    "example": "The plan seemed feasible and within our budget.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8f\u0113z\u0259b(\u0259)l"
+  },
+  {
+    "word": "formulate",
+    "definition": "To express something in a concise or systematic way.",
+    "example": "The scientist was able to formulate a new hypothesis based on the data.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8f\u0254\u02d0r.mj\u0259.le\u026at"
+  },
+  {
+    "word": "heritage",
+    "definition": "Valued objects and qualities such as cultural traditions that have been passed down from previous generations.",
+    "example": "The festival celebrates the rich heritage of the local community.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8h\u025br.\u026a.t\u026ad\u0292"
+  },
+  {
+    "word": "illustrate",
+    "definition": "To provide with pictures or diagrams to explain or decorate.",
+    "example": "She used charts and graphs to illustrate her points during the presentation.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8\u026al.\u0259.stre\u026at"
+  },
+  {
+    "word": "imply",
+    "definition": "To suggest something as a logical consequence.",
+    "example": "His tone seemed to imply his dissatisfaction with the results.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u026am\u02c8pla\u026a"
+  },
+  {
+    "word": "juvenile",
+    "definition": "Relating to or suitable for children or young people.",
+    "example": "The movie's juvenile humor makes it popular with children.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8d\u0292u\u02d0.v\u0259.na\u026al"
+  },
+  {
+    "word": "kinetic",
+    "definition": "Relating to or resulting from motion.",
+    "example": "The kinetic energy of the machine was converted into electricity.",
+    "part_of_speech": "adjective",
+    "pronounciation": "k\u026a\u02c8n\u025bt.\u026ak"
+  },
+  {
+    "word": "legitimate",
+    "definition": "Conforming to the law or to rules; also meaning genuine or valid.",
+    "example": "The customer had legitimate concerns about the product's safety.",
+    "part_of_speech": "adjective",
+    "pronounciation": "l\u0259\u02c8d\u0292\u026at.\u0259.m\u0259t"
+  },
+  {
+    "word": "liberate",
+    "definition": "To set someone free from a situation, especially imprisonment or slavery.",
+    "example": "The soldiers were sent to liberate the captured city.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8l\u026ab.\u0259.re\u026at"
+  },
+  {
+    "word": "lucrative",
+    "definition": "Producing a great deal of profit.",
+    "example": "Investing in real estate can be a lucrative endeavor.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8lu\u02d0.kr\u0259.t\u026av"
+  },
+  {
+    "word": "manipulate",
+    "definition": "To control or influence cleverly or unscrupulously.",
+    "example": "The politician was accused of trying to manipulate public opinion.",
+    "part_of_speech": "verb",
+    "pronounciation": "m\u0259\u02c8n\u026ap.j\u0259.le\u026at"
+  },
+  {
+    "word": "magnitude",
+    "definition": "The great size, extent, or importance of something.",
+    "example": "The magnitude of the earthquake was measured at 7.0 on the Richter scale.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8m\u00e6\u0261.n\u026a.tju\u02d0d"
+  },
+  {
+    "word": "mandatory",
+    "definition": "Required by rules or law; compulsory.",
+    "example": "Wearing a helmet while riding a bicycle is mandatory in some countries.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8m\u00e6n.d\u0259.t\u0254\u02d0r.i"
+  },
+  {
+    "word": "mediate",
+    "definition": "Intervene in a dispute in order to bring about an agreement or reconciliation.",
+    "example": "The diplomat was able to mediate a peaceful resolution between the conflicting parties.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8mi\u02d0.di.e\u026at"
+  },
+  {
+    "word": "meticulous",
+    "definition": "Showing great attention to detail; very careful and precise.",
+    "example": "She was meticulous in her design, ensuring that every detail was perfect.",
+    "part_of_speech": "adjective",
+    "pronounciation": "m\u0259\u02c8t\u026ak.j\u0259.l\u0259s"
+  },
+  {
+    "word": "motive",
+    "definition": "A reason for doing something, especially one that is hidden or not obvious.",
+    "example": "The detective sought to uncover the suspect's motive for committing the crime.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8mo\u028a.t\u026av"
+  },
+  {
+    "word": "negligent",
+    "definition": "Failing to take proper care in doing something.",
+    "example": "He was negligent in performing his duties, which led to the company's downfall.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8n\u025b\u0261.l\u026a.d\u0292\u0259nt"
+  },
+  {
+    "word": "notable",
+    "definition": "Worthy of attention or notice; remarkable.",
+    "example": "Her notable achievements earned her recognition in the scientific community.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8no\u028a.t\u0259.b\u0259l"
+  },
+  {
+    "word": "notion",
+    "definition": "A conception of or belief about something.",
+    "example": "He had a notion that hard work leads to success.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8no\u028a.\u0283\u0259n"
+  },
+  {
+    "word": "novel",
+    "definition": "New and not resembling something formerly known or used; original or striking, especially in conception or style.",
+    "example": "The scientist proposed a novel approach to address the escalating environmental issues.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8n\u0252v.\u0259l"
+  },
+  {
+    "word": "objective",
+    "definition": "Not influenced by personal feelings or opinions in considering and representing facts; unbiased.",
+    "example": "The judge must remain objective while making a decision in a case.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u0259b\u02c8d\u0292\u025bk.t\u026av"
+  },
+  {
+    "word": "Obligate",
+    "definition": "To bind legally or morally; to compel someone to follow a particular course of action.",
+    "example": "The contract obligates the company to complete the project by the end of the year.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8\u00e4-bl\u0259-\u02ccg\u0101t"
+  },
+  {
+    "word": "Obsolete",
+    "definition": "No longer in use; out of date.",
+    "example": "With the advent of digital technology, many analog devices have become obsolete.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02cc\u00e4b-s\u0259-\u02c8l\u0113t"
+  },
+  {
+    "word": "Omniscient",
+    "definition": "Having complete or unlimited knowledge, awareness, or understanding; perceiving all things.",
+    "example": "The novel's narrator is omniscient, providing insight into the thoughts and feelings of all the characters.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u00e4m-\u02c8ni-sh\u0259nt"
+  },
+  {
+    "word": "Optimize",
+    "definition": "To make the best or most effective use of a situation, opportunity, or resource.",
+    "example": "By optimizing their workflow, the team was able to increase their productivity by 20%.",
+    "part_of_speech": "verb",
+    "pronounciation": "\u02c8\u00e4p-t\u0259-\u02ccm\u012bz"
+  },
+  {
+    "word": "Origin",
+    "definition": "The point or place where something begins, arises, or is derived.",
+    "example": "The origin of the custom can be traced back to ancient times.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8\u022fr-\u0259-j\u0259n"
+  },
+  {
+    "word": "Paradox",
+    "definition": "A statement or proposition that seems self-contradictory or absurd but in reality expresses a possible truth.",
+    "example": "It is a paradox that in such a rich country, there can still be so much poverty.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8per-\u0259-\u02ccd\u00e4ks"
+  },
+  {
+    "word": "Parameter",
+    "definition": "A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.",
+    "example": "The scientists varied one parameter at a time to study its effects on the experiment outcome.",
+    "part_of_speech": "noun",
+    "pronounciation": "p\u0259-\u02c8ra-m\u0259-t\u0259r"
+  },
+  {
+    "word": "Persuade",
+    "definition": "To prevail on a person to do something, as by advising or urging.",
+    "example": "She managed to persuade him to join her on the trip despite his initial reluctance.",
+    "part_of_speech": "verb",
+    "pronounciation": "p\u0259r-\u02c8sw\u0101d"
+  },
+  {
+    "word": "Phenomenon",
+    "definition": "A fact, occurrence, or circumstance observed or observable; something that is impressive or extraordinary.",
+    "example": "The Northern Lights are a natural phenomenon that attracts thousands of tourists each year.",
+    "part_of_speech": "noun",
+    "pronounciation": "fi-\u02c8n\u00e4-m\u0259-\u02ccn\u00e4n"
+  },
+  {
+    "word": "Plausible",
+    "definition": "Seeming reasonable or probable; credible.",
+    "example": "Her explanation seemed plausible and convinced the committee to let her try the new approach.",
+    "part_of_speech": "adjective",
+    "pronounciation": "\u02c8pl\u022f-z\u0259-b\u0259l"
+  },
+  {
+    "word": "potential",
+    "definition": "Having or showing the capacity to develop into something in the future.",
+    "example": "The project has great potential for success.",
+    "part_of_speech": "adjective",
+    "pronounciation": "p\u0259\u02c8t\u025bn\u0283\u0259l"
+  },
+  {
+    "word": "precede",
+    "definition": "To come before something in time, order, or position.",
+    "example": "An introductory chapter precedes the main text.",
+    "part_of_speech": "verb",
+    "pronounciation": "pr\u026a\u02c8si\u02d0d"
+  },
+  {
+    "word": "predominant",
+    "definition": "Having superior strength, influence, or authority; most common or widespread.",
+    "example": "Green is the predominant color in the forest.",
+    "part_of_speech": "adjective",
+    "pronounciation": "pr\u026a\u02c8d\u0252m\u026an\u0259nt"
+  },
+  {
+    "word": "prejudice",
+    "definition": "Preconceived opinion that is not based on reason or actual experience.",
+    "example": "The policy aims to combat racial prejudice.",
+    "part_of_speech": "noun",
+    "pronounciation": "\u02c8pr\u025bd\u0292\u028ad\u026as"
+  },
+  {
+    "word": "preliminary",
+    "definition": "An action or event preceding or done in preparation for something fuller or more important.",
+    "example": "We did some preliminary research before the main study.",
+    "part_of_speech": "adjective",
+    "pronounciation": "pr\u026a\u02c8l\u026am\u026an\u0259ri"
+  },
+  {
+    "word": "presume",
+    "definition": "To suppose that something is the case on the basis of probability.",
+    "example": "I presume you're tired after your long journey.",
+    "part_of_speech": "verb",
+    "pronounciation": "pr\u026a\u02c8zju\u02d0m"
+  },
+  {
+    "word": "priority",
+    "definition": "A thing that is regarded as more important than others.",
+    "example": "Education is a top priority for the government.",
+    "part_of_speech": "noun",
+    "pronounciation": "pra\u026a\u02c8\u0252r\u026ati"
+  },
+  {
+    "word": "proclaim",
+    "definition": "To announce officially or publicly.",
+    "example": "The president proclaimed the new policy during the press conference.",
+    "part_of_speech": "verb",
+    "pronounciation": "pr\u0259\u02c8kle\u026am"
+  },
+  {
+    "word": "proficient",
+    "definition": "Competent or skilled in doing or using something.",
+    "example": "She is proficient in multiple languages.",
+    "part_of_speech": "adjective",
+    "pronounciation": "pr\u0259\u02c8f\u026a\u0283\u0259nt"
+  },
+  {
+    "word": "proportion",
+    "definition": "A part, share, or number considered in comparative relation to a whole.",
+    "example": "A large proportion of the budget is allocated to education.",
+    "part_of_speech": "noun",
+    "pronounciation": "pr\u0259\u02c8p\u0254\u02d0\u0283\u0259n"
+  },
+  {
+    "word": "prosper",
+    "definition": "To succeed in material terms; be financially successful.",
+    "example": "With wise investments, the company continued to prosper year after year.",
+    "part_of_speech": "verb",
+    "pronounciation": "/\u02c8pr\u0252sp\u0259r/"
+  },
+  {
+    "word": "protocol",
+    "definition": "A system of rules that explain the correct conduct and procedures to be followed in formal situations.",
+    "example": "The diplomat carefully adhered to the protocol during the negotiations.",
+    "part_of_speech": "noun",
+    "pronounciation": "/\u02c8pr\u0259\u028at\u0259k\u0252l/"
+  },
+  {
+    "word": "qualitative",
+    "definition": "Relating to, measuring, or measured by the quality of something rather than its quantity.",
+    "example": "The researchers conducted a qualitative analysis of the participants' responses.",
+    "part_of_speech": "adjective",
+    "pronounciation": "/\u02c8kw\u0252l\u026at\u0259t\u026av/"
+  },
+  {
+    "word": "quantitative",
+    "definition": "Relating to, measuring, or measured by the quantity of something rather than its quality.",
+    "example": "The study provided quantitative data on the population's growth rate.",
+    "part_of_speech": "adjective",
+    "pronounciation": "/\u02c8kw\u0252nt\u026at\u0259t\u026av/"
+  },
+  {
+    "word": "recession",
+    "definition": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+    "example": "The country faced a severe recession that affected employment rates.",
+    "part_of_speech": "noun",
+    "pronounciation": "/r\u026a\u02c8s\u025b\u0283\u0259n/"
+  },
+  {
+    "word": "relevant",
+    "definition": "Closely connected or appropriate to the matter at hand.",
+    "example": "The attorney presented the relevant evidence to support her client's case.",
+    "part_of_speech": "adjective",
+    "pronounciation": "/\u02c8r\u025bl\u0259v\u0259nt/"
   }
 ]
 
